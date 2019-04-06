@@ -12,7 +12,7 @@ Run these commands to install:
   brew install postgresql
 
   # uncomment and run below if you experience problems:
-  #initdb /usr/local/var/postgres
+  # initdb /usr/local/var/postgres
 
   # start the postgres server
   brew services start postgresql
